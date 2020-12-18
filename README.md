@@ -2,9 +2,10 @@
 - meine erste Datei für Github
 # 2020-11-30_Data_Librarian_Silvana_Kuehne
 
-###NACHTRAG zu unserem LerngruppenMeeting
+### NACHTRAG zu unserem LerngruppenMeeting
 Der Befehl, um **erstmalig** die Dateien von dem geforkten Repositorium auf den eigenen Rechner zu laden, lautet:
 **git clone https://github.com/RestlicherURLSchwanz**
+Es handelt sich um die URL, die man auf dem geforkten Repo findet, wenn man auf den grünen Code-Button klickt.
 Dann können die Dateien bearbeitet werden.
 Dann können die Änderungen gepushed werden.
 Und **zukünftig** kann man Änderungen auf den eigenen Rechner wieder ziehen mit:
