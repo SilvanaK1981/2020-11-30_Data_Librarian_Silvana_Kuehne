@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welche Fragen sollen im Jupyter Notebook beantwortet werden?
 1.) Welche Datensätze gibt es mit dem Materialtyp Buch (Book), die über das System Horizon ausgeliehen wurden? 
     Zur Weiterverarbeitung brauche ich diese Abfrage als CSV.
@@ -8,3 +9,8 @@ Welche Fragen sollen im Jupyter Notebook beantwortet werden?
 
 Autorin: Silvana Kühne am: 29.12.2020
 Python
+=======
+Python
+
+
+>>>>>>> b729c2121d6699a1fdf847269a1216762cab7740
